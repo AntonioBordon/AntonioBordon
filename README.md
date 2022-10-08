@@ -10,6 +10,7 @@
   <img align="center" alt="Antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Antonio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Antonio-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Antonio-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
 <br/>
 <div> 
