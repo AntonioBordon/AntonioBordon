@@ -1,4 +1,4 @@
-## Olá caro visitante, seja bem vindo ao meu perfil. Meu nome é Antonio 😊 
+Olá seja bem vindo ao meu perfil. Meu nome é Antonio 
 <div align="center" style="inline_block">
   <a href="https://github.com/AntonioBordon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioBordon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
