@@ -1,7 +1,7 @@
 ## Olá caro visitante, seja bem vindo ao meu perfil. Meu nome é Antonio 😊
 ### Atualmente trabalho com a plataforma .NET (MVC Web Applications, Web APIS, etc).  
 <div align="center" style="inline_block">
-  <a href="https://github.com/PedroNetto404">
+  <a href="https://github.com/AntonioBordon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedronetto404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronetto404&layout=compact&langs_count=7&theme=dracula"/>
 </div>
