@@ -1,7 +1,7 @@
 ## Olá caro visitante, seja bem vindo ao meu perfil. Meu nome é Antonio 😊 
 <div align="center" style="inline_block">
   <a href="https://github.com/AntonioBordon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedronetto404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioBordon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBordon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
